@@ -1,0 +1,8 @@
+div {
+    width: 1280px;
+    margin: auto;
+    text-align: center;
+    border: 1px solid black;
+    background-color: #DDD;
+    margin-top: 2rem;
+}
